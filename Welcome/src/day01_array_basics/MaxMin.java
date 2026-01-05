@@ -1,3 +1,5 @@
+package day01_array_basics;
+
 class MaxMin {
     public static void main(String[] args) {
 

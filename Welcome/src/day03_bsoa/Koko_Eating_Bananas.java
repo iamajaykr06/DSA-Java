@@ -1,3 +1,5 @@
+package day03_bsoa;
+
 class Koko_Eating_Bananas{
     public static void main(String[]args){
         int[] piles = {3, 6, 7, 11};

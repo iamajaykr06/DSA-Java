@@ -1,3 +1,5 @@
+package day02_binary_search;
+
 public class Number_Of_Occurrences {
 
     static int LowerBound(int[]arr,int target){

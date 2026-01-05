@@ -1,3 +1,5 @@
+package day03_bsoa;
+
 public class Allocate_Minimum_Pages {
     public static void main(String[]args){
         int[] pages = {12, 34, 67, 90};

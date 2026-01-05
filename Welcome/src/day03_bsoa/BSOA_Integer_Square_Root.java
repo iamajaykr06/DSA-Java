@@ -1,3 +1,5 @@
+package day03_bsoa;
+
 public class BSOA_Integer_Square_Root {
     public static void main(String[]args){
         int n=30;

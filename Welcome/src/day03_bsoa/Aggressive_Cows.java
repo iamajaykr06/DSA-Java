@@ -1,3 +1,5 @@
+package day03_bsoa;
+
 import java.util.Arrays;
 public class Aggressive_Cows {
     static int aggressiveCows(int[] stalls, int cows) {

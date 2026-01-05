@@ -1,3 +1,5 @@
+package day01_array_basics;
+
 class ReverseArray {
     public static void main(String[] args) {
 

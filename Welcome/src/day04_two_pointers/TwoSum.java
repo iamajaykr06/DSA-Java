@@ -1,3 +1,5 @@
+package day04_two_pointers;
+
 public class TwoSum {
 
     static boolean twoSum(int []arr,int target){

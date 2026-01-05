@@ -1,3 +1,5 @@
+package day02_binary_search;
+
 public class UpperBound {
     public static void main(String[] args){
 

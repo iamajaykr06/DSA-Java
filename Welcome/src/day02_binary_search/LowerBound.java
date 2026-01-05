@@ -1,3 +1,5 @@
+package day02_binary_search;
+
 class LowerBound {
     public static void main(String[] args){
 

@@ -1,3 +1,5 @@
+package day02_binary_search;
+
 class First_and_Last_Occurrence {
 
     static int FirstOccurrence(int[]arr,int target){
